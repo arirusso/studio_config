@@ -1,0 +1,3 @@
+= studio_config
+
+my music studio config files
